@@ -4,4 +4,7 @@ delos tanto manualmente como con PyTorch, explorando múltiples arquitecturas, t
 de regularización (como L2 y early stopping) y optimizadores (incluyendo Adam y SGD
 con mini-batch). Se desarrollaron modelos M0 a M4, donde se aplicaron estrategias de
 evaluación para comparar el impacto de cada mejora sobre el rendimiento y la capacidad
-de generalizaci ́on
+de generalización.
+
+Utilizando el mejor modelo, se generaron las predicciones a posteriori para un conjunto no etiquetado y se almacenaron en
+un archivo Amblard_Agustin_predicciones.csv
